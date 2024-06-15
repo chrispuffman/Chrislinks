@@ -10,8 +10,8 @@
 - [Link2 🍄](https://yahoo.com)
 - [Link3 🍄](https://altevista.com)
 - [Link4 🍄](https://altevista.com)
-- [Link3 🍄](https://altevista.com)
-- [Link4 🍄](https://altevista.com)
+- [Link6 🍄](https://altevista1.com)
+- [Link7 🍄](https://altevista2.com)
 
 
 In twilight's embrace, the moon whispers,
